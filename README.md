@@ -111,3 +111,4 @@ Dynamic slicers allow users to filter data by month and food category.
 • Use trend analysis to optimize inventory and operational planning.
 
 ## Screenshot
+https://github.com/riya-Hub1207/Swiggy-Sales-Dashboard/blob/main/Snapshot%20of%20the%20Swiggy%20dashboard.jpeg
